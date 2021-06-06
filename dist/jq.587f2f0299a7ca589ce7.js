@@ -1,0 +1,1 @@
+(self.webpackChunkwebpack=self.webpackChunkwebpack||[]).push([[99],{606:function(c,s,e){"use strict";var n=e(755),o=e.n(n);console.log("abcd"),o()("body").css("background-color","red")}},function(c){"use strict";c(c.s=606)}]);
